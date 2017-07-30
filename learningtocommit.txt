@@ -1,0 +1,26 @@
+cd desktop
+mkdir gittest
+cd gittest
+git init
+touch index.html
+touch styles.css
+touch aboutMe.txt
+git add.
+git commit
+first commit (comment)
+vi aboutMe.txt 
+this is a little something about me
+git add .
+git commit 
+vi aboutMe.txt
+my favourite movie
+git add .
+git commit
+ls
+vi aboutMe.txt
+my favourite book (instead of movie)
+git add .
+git commit
+git push
+cd ..
+
